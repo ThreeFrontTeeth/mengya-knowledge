@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# 本地配置、凭据与缓存
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.cache/
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# 本地恢复备份；保留磁盘原件
+萌芽知识库/04-历史记录/修改前备份/*.zip
