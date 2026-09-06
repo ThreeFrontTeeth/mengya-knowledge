@@ -25,7 +25,7 @@
 把下面这段提示词发给 AI Agent，让它帮你搭建自己的知识库：
 
 ```text
-请参考这个仓库：https://github.com/ThreeFrontTeeth/mengya-knowledge，为当前文件夹搭建知识库，配置好目录结构、AI 工作规则和使用流程。保留已有内容和顶层文件夹名称，不要改名为“萌芽知识库”，也不要额外套一层同名文件夹。
+参考 https://github.com/ThreeFrontTeeth/mengya-knowledge，按仓库的首次搭建流程，在当前文件夹中配置知识库目录、AI 工作规则和使用流程。
 ```
 
 ## 当前内容
