@@ -37,7 +37,7 @@
 - [Andrej Karpathy 的 LLM Wiki 思路](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)：原始资料与持续维护的 Wiki 分层。
 - [SherwinQ/karpathy-wiki](https://github.com/SherwinQ/karpathy-wiki)：基于该思路的第三方 Agent Skill 实现；本仓库参考其知识处理流程和介绍方式，未安装或集成该 Skill。
 
-外部资料保留各自来源，第三方内容权利归原作者所有；保存于本库不代表获得再分发授权。本仓库暂未添加统一开源许可证。
+外部资料保留各自来源，第三方内容权利归原作者所有；保存于本库不代表获得再分发授权。本仓库的结构说明与规则文档采用 [CC BY 4.0](LICENSE) 许可。
 
 ## 让知识慢慢生长
 
